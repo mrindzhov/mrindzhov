@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Martin Indzhov</h1>
-<h3 align="center">A proactive and reliable full-stack engineer with a broad skill set for web application development. I have been working on a range of products and clients - from solving enterprise-grade problems to launching new applications for startups. Most of my work consists of leading technical teams, creating easy development environments, fixing technical debts, enforcing best practices in teams, and mentoring devs.</h3>
+<h4 align="center">A proactive and reliable full-stack engineer with a broad skill set for web application development. I have been working on a range of products and clients - from solving enterprise-grade problems to launching new applications for startups. Most of my work consists of leading technical teams, creating easy development environments, fixing technical debts, enforcing best practices in teams, and mentoring devs.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrindzhov&label=Profile%20views&color=0e75b6&style=flat" alt="mrindzhov" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mrindzhov" target="blank"><img src="https://img.shields.io/twitter/follow/mrindzhov?logo=twitter&style=for-the-badge" alt="mrindzhov" /></a> </p>
-
-- Part of [Toptal](https://topt.al/eqcxR6) & [Lemon.io](https://lemon.io) platforms
+- Active freelancer on [Toptal](https://topt.al/eqcxR6) & [Lemon.io](https://lemon.io) platforms
 
 - 🔭 Currently looking for [freelancing](https://www.toptal.com/resume/martin-indzhov) opportunities
 
-- 📄 All of my experiences are available on [my portfolio](TODO)
+- 📄 All of my experiences will be available on [PORTFOLIO IN PROGRESS](TODO)
 
-<h2 align="left">Connect with me</h2>
-
+<!-- <p align="left">
+<a href="https://twitter.com/mrindzhov" target="blank"><img src="https://img.shields.io/twitter/follow/mrindzhov?logo=twitter&style=for-the-badge" alt="mrindzhov" /></a>
+</p>
 <p align="left">
-<a href="https://twitter.com/mrindzhov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrindzhov" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/martin-indzhov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-indzhov" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=mrindzhov&label=Profile%20views&color=0e75b6&style=flat" alt="mrindzhov" />
+</p> -->
 
 <h2 align="left">💼 Working with the following technologies</h2>
 <p align="left"> 
@@ -50,17 +47,20 @@
 <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 
 <h3 align="left">Infrastructure</h3>
 
-<a href="https://azure.microsoft.com/en-in" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+<a href="https://azure.microsoft.com/en-in" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="40" height="40"/> </a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
 </p>
 
----
+<h2 align='center'>Reach me at <a href="https://twitter.com/mrindzhov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrindzhov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/martin-indzhov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-indzhov" height="30" width="40" /></a>
+</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrindzhov&show_icons=true&locale=en&layout=compact" alt="mrindzhov" /></p>
+
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrindzhov&show_icons=true&locale=en&layout=compact" alt="mrindzhov" /></p> -->
