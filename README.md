@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Martin Indzhov</h1>
-<h3 align="center">I find my self a proactive and reliable full-stack engineer who possesses a broad skill set for web application development. I have been working on a range of products and clients - from solving enterprise-grade problems to launching new applications for startups. Most of my work consists of leading technical teams, creating easy development environments, fixing technical debts, enforcing best practices in teams, and mentoring devs.</h3>
+<h3 align="center">A proactive and reliable full-stack engineer who possesses a broad skill set for web application development. I have been working on a range of products and clients - from solving enterprise-grade problems to launching new applications for startups. Most of my work consists of leading technical teams, creating easy development environments, fixing technical debts, enforcing best practices in teams, and mentoring devs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrindzhov&label=Profile%20views&color=0e75b6&style=flat" alt="mrindzhov" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mrindzhov" target="blank"><img src="https://img.shields.io/twitter/follow/mrindzhov?logo=twitter&style=for-the-badge" alt="mrindzhov" /></a> </p>
 
-- 🔭 I’m currently working as [a freelancer](https://www.toptal.com/resume/martin-indzhov)
-
-- 👨‍💻 All of my projects are available at [TODO](TODO)
-
-- 📄 Know about my experiences [TODO](TODO)
+-  Part of [Toptal](https://topt.al/eqcxR6) & Lemon.io
+- 🔭 Currently looking for [freelancing](https://www.toptal.com/resume/martin-indzhov) opportunities
+- 📄 All of my experiences are available on [my portfolio](TODO)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
