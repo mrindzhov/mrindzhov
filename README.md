@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrindzhov" target="blank"><img src="https://img.shields.io/twitter/follow/mrindzhov?logo=twitter&style=for-the-badge" alt="mrindzhov" /></a> </p>
 
-- Part of [Toptal](https://topt.al/eqcxR6) & Lemon.io platforms
+- Part of [Toptal](https://topt.al/eqcxR6) & [Lemon.io](https://lemon.io) platforms
 
 - 🔭 Currently looking for [freelancing](https://www.toptal.com/resume/martin-indzhov) opportunities
 
