@@ -5,7 +5,7 @@
 
 - 🔭 Currently looking for [freelancing](https://www.toptal.com/resume/martin-indzhov) opportunities
 
-- 📄 All of my experiences will be available on [PORTFOLIO IN PROGRESS](TODO)
+- 📄 All of my experiences are available on [my personal website](https://martin-indzhov.vercel.app/)
 
 <!-- <p align="left">
 <a href="https://twitter.com/mrindzhov" target="blank"><img src="https://img.shields.io/twitter/follow/mrindzhov?logo=twitter&style=for-the-badge" alt="mrindzhov" /></a>
