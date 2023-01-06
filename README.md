@@ -1,8 +1,8 @@
 👋 Hey, I'm  Martin Indzhov
 
-👨🏻‍💻 Software Engineer with ~16k hours of professional experience with .NET | React | Angular | Azure. 
+👨🏻‍💻 Software Engineer with ~16k hours of professional experience with .NET | React | Angular | Azure.
 
-🤔 Looking for opportunities to solve real-world problems.
+🌍 Looking for opportunities to solve real-world problems.
 
 ----
 
